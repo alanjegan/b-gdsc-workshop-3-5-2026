@@ -1,12 +1,12 @@
-# 🧙‍♂️ Tornelius, The Open Sourcerer of Technica 🧙‍♂️
+# 🧙‍♂️ Gideon, The Open Sourcerer of GDSC 🧙‍♂️
 
 <p align="center">
-    <img src="tornelius.png" alt="Tornelius, The Open Sourcerer of Technica" width="200"/>
+    <img src="gideon.png" alt="Gideon, The Open Sourcerer of GDSC" width="200"/>
 </p>
 
-Welcome to **Tornelius, The Open Sourcerer of Technica**, the workshop activity for **Open Sourcery @ Technica UMD 2025**!  
+Welcome to **Gideon, The Open Sourcerer of GDSC**, the activity for the **GDSC <> Open Sourcery Workshop**!  
 
-In this activity, you'll team up in small groups (2–4 people) to make an open-source contribution by adding a new *keyspell* to Tornelius, the Open Sourcerer of Technica.
+In this activity, you'll team up in small groups (2–4 people) to make an open-source contribution by adding a new *keyspell* to Gideon, the Open Sourcerer of GDSC.
 
 Each group will be assigned a unique keyboard letter (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that letter key is pressed).
 
@@ -33,7 +33,7 @@ Each group will be assigned a unique keyboard letter (e.g. `q`, `w`, `e`, …) a
 ## 🏆 The Goal
 
 When someone presses your assigned key:
-1. A keyspell will appear to be cast from **Tornelius** (displayed at the bottom of the screen).
+1. A keyspell will appear to be cast from **Gideon** (displayed at the bottom of the screen).
 2. The keyspell will fly upward in a random direction at a random speed.
 3. The keyspell should have a unique style and effect created by your group!
 
@@ -48,15 +48,15 @@ Through Git commits, we’ll combine everyone’s keyspells into this repository
 In your terminal, type:
 
 ```bash
-git clone https://github.com/Open-Sourcery-UMD/technica-workshop-2025.git
+git clone https://github.com/Open-Sourcery-UMD/gdsc-workshop-2026.git
 ```
 
 ### 2. Open the folder for editing
 
-Open the `technica-workshop-2025` folder in your IDE or text editor of choice (e.g., VSCode).
+Open the `gdsc-workshop-2026` folder in your IDE or text editor of choice (e.g., VSCode).
 
-### 3. Open the `technica-workshop-2025/index.html` file on your laptop
-You’ll see Tornelius on the screen. Pressing your group's assigned key will cast your group’s keyspell.
+### 3. Open the `gdsc-workshop-2026/index.html` file on your laptop
+You’ll see Gideon on the screen. Pressing your group's assigned key will cast your group’s keyspell.
 
 ### 4. Find your spell file
 Each keyspell corresponds to a key on the keyboard:
@@ -86,7 +86,7 @@ Even if you do nothing, no worries; your assigned keyspell will still work as a 
 
 `index.html` loads each keyspell file.
 
-Each `_Spell.js` file listens for its key press and creates a visual element (div) that flies away from Tornelius.
+Each `_Spell.js` file listens for its key press and creates a visual element (div) that flies away from Gideon.
 
 You only need to modify your keyspell file; everything else is ready!
 
